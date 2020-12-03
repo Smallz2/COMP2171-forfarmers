@@ -1,24 +1,24 @@
-# README
+# Software Development Group Project  
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Group 4 Members:
 
-Things you may want to cover:
+Dexter Small 
+620114071 
+dexter.small@mymona.uwi.edu 
 
-* Ruby version
+Itawnya Walker 
+620131013 
+itawnya.walker@mymona.uwi.edu 
 
-* System dependencies
+Jhanelle Douglas 
+620111495 
+Jhanelle.douglas@mymona.uwi.edu 
 
-* Configuration
+Jordan Barrett  
+620129662 
+Jordan.barrett@mymona.uwi.edu 
 
-* Database creation
+Kevin Johnson 
+620106542 
+Kevin.johnson03@mymona.uwi.edu 
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
