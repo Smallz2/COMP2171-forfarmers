@@ -14,7 +14,7 @@ class User < ApplicationRecord
 
   devise :database_authenticatable, :registerable, :confirmable,
          :recoverable, :rememberable, :validatable, 
-         :timeoutable, :timeout_in => 30.minutes
+         :timeoutable, :timeout_in => 20.minutes
 
 	mount_uploader :avatar, ImageUploader
 
