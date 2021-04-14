@@ -1,24 +1,3 @@
-# Software Development Group Project  
+# For Farmers Market Place 
 
-Group 4 Members:
-
-- Dexter Small 
-- 620114071 
-- dexter.small@mymona.uwi.edu 
-
-- Itawnya Walker 
-- 620131013 
-- itawnya.walker@mymona.uwi.edu 
-
-- Jhanelle Douglas 
-- 620111495 
-- Jhanelle.douglas@mymona.uwi.edu 
-
-- Jordan Barrett  
-- 620129662 
-- Jordan.barrett@mymona.uwi.edu 
-
-- Kevin Johnson 
-- 620106542 
-- Kevin.johnson03@mymona.uwi.edu 
-
+Farmers can share the various selection of goods they have to offer. Farmers would have an appropriate picture of the produce or livestock that will be sold, as well as their respective prices.  This application would allow for users to view the stock a farmer has and purchase accordingly.
